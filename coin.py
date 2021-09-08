@@ -10,3 +10,4 @@ for coin in oin_types:
 
 print(count)
 //oin_types 값이 지금 같은 것이라면 좋지만 oin_types가 500,400,100,10같이 있으면 400 3개가 더 좋은 경우의 수임
+//시간 복잡도는 O(K)임 (화폐종류 = K)
